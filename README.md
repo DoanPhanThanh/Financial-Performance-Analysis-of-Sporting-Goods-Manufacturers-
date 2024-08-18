@@ -9,6 +9,9 @@ Additionally, this project will incorporate targets for expenses and revenue to 
 ## Dataset
 The dataset includes revenue and expense data, split by month and business line.
 
+## Dashboard:
+Interactive report link: https://shorturl.at/cm8oa
+
 ## Key Insight:
 
 This project provides a comprehensive financial analysis of a sporting goods manufacturer across three business lines: Sports Equipment, Sportswear, and Nutrition & Food Supplements. The analysis highlights key revenue and expense metrics, offering insights into profitability and operational efficiency.
