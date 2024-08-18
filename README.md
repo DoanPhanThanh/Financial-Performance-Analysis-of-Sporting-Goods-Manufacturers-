@@ -1,4 +1,4 @@
-# Financial-Performance-Analysis-of-Sporting-Goods-Manufacturers-
+# Financial Performance Analysis of Sporting Goods Manufacturers
 
 ## About
 
