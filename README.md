@@ -1,16 +1,18 @@
 # Financial Performance Analysis of Sporting Goods Manufacturers
 
-## About
+## About:
 
 This project involves analyzing the financial performance of a sporting goods manufacturer across three business lines: Sports Equipment, Sportswear, and Nutrition & Food
 Supplements. The analysis will focus on key financial metrics, including the income statement, profit margins, EBIT margin, and OPEX ratio, evaluated through monthly KPIs.
 Additionally, this project will incorporate targets for expenses and revenue to provide deeper insights.
 
-## Dataset
+## Dataset:
+
 The dataset includes revenue and expense data, split by month and business line.
 
 ## Dashboard:
-Interactive report link: https://shorturl.at/cm8oa
+
+⭐ Interactive report link: https://shorturl.at/cm8oa
 
 ## Key Insight:
 
