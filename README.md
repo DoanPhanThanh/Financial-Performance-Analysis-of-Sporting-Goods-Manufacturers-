@@ -12,7 +12,7 @@ The dataset includes revenue and expense data, split by month and business line.
 
 ## Dashboard:
 
-⭐ Interactive report link: https://shorturl.at/cm8oa
+⭐ Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiZTQ1ZjkzNjEtNjIxZC00OGI1LTlhODItMzA2M2YwNTU4N2U3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 ## Key Insight:
 
